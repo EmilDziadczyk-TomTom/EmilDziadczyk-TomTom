@@ -1,4 +1,4 @@
-public class BinarySearch {
+class BinarySearch {
     // Returns the index of the target value in the array, or -1 if not found
     public static int binarySearch(int[] arr, int target) {
         int left = 0;
@@ -27,7 +27,7 @@ public class BinarySearch {
     }
 
     public static void main(String[] args) {
-        int[] array = {2, 3, 4, 10, 40};
+        int[] array = {1, 2, 3, 4, 10, 40};
         int target = 10;
         int result = binarySearch(array, target);
         if (result == -1) {
