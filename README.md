@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is supposed to be used to test the code for interviews. Outdated. 
 <!--
 **EmilDziadczyk-TomTom/EmilDziadczyk-TomTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
